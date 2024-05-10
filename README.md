@@ -3,6 +3,9 @@ Modular report system for your CS:2 server - WestReportSystem
 
 **Sending reports to Telegram**
 
+![image](https://github.com/Stimayk/WestReportToTelegram/assets/51941742/6a8cb407-f5e8-4d35-beb9-3e67142f7264)
+
+
 Uses [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
 
 The WRTTG module itself is also customized
